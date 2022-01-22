@@ -2,7 +2,7 @@
  ## Olá, eu sou o Carlos! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
  ### Sobre mim
- - :mortar_board: Formado em Ciência da computação
+ - :mortar_board: Formado em Ciência da computação e cursando Pós-Graduação em Inteligência Artificial
  - :space_invader: Atualmente trabalho como Analista de monitoramento
  - :rocket: Estudando Programação - Backend 
   <div>
