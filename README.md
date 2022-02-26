@@ -3,7 +3,7 @@
 
  ### Sobre mim
  - :mortar_board: Formado em Ciência da computação e cursando Pós-Graduação em Inteligência Artificial
- - :space_invader: Atualmente trabalho como Analista de monitoramento
+ - :space_invader: Atualmente trabalho como Desenvolvedor python jr 
  - :rocket: Estudando Programação - Backend 
   <div>
    <a href="https://github.com/carv-silva">
